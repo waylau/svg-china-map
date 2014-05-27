@@ -6,3 +6,5 @@ svg-china-map
 china_map.html 该例子的主文件
 
 china.geo.json  是中国地图的GeoJSON
+
+教程详见[http://www.waylau.com/svg-demo-china-map/](http://www.waylau.com/svg-demo-china-map/)
